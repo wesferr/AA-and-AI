@@ -1,4 +1,4 @@
-# Implementations of classicals Algorithm Analysis and Artificial Inteligence algorithms
+# Implementations of classicals algorithms
 
 * 0-1 Knapsack
 * Inversion Counter
